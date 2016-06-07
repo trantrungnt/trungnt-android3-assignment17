@@ -10,6 +10,7 @@
 + Máy ảo Genymotion sử dụng api min 17 và max 23
 
 ##Nguồn tham khảo
++ [Import file SVG in my Project](https://youtu.be/DGeVYAk1k8Q)
 + [Content Provider in Android](http://www.tutorialspoint.com/android/android_content_providers.htm)
 + [Material Design Icons](https://materialdesignicons.com/icon/)
  
